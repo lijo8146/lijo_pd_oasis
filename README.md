@@ -17,9 +17,11 @@ Welcome to the [Your Name] repository, part of the Environmental Data Science In
 
 [List the names and a brief description of people you work with, possibly linking to their personal or professional web pages.]
 
-- **Collaborator 1**: Brief description.
-- **Collaborator 2**: Brief description.
-- ...
+- **Collaborator 1**: Ty Tuff, PhD, ESIIL Data Scientist.
+- **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist, Earth Lab and ESIIL.
+- **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director.
+- **Collaborator 4**: Erick Verleye, ESIIL Software Developer.
+- **Collaborator 5**: Daksha Singhal, Graduate Research Assistant.
 
 ## Code Repository
 
