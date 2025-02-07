@@ -24,7 +24,7 @@ I contribute to the following projects:
 ## Collaborators and Co-Authors 
 
 #### Maka Sitomniya: 
-- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL
+- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL, https://github.com/HeSapa9
 - **Collaborator 1**: PI: Phil Two Eagle <phil.twoeagle@rst-nsn.gov>
 - **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
 - **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia <lijo8146@colorado.edu>
@@ -40,7 +40,7 @@ I contribute to the following projects:
 - **Collaborator 13**: Robert Michell Rabin <rabin@ssec.wisc.edu>
 
 #### Sicangu Climate Center:
-- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL
+- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL https://github.com/HeSapa9
 - **Collaborator 2**: Phil Two Eagle
 - **Collaborator 3**: Robin O'Malley
 - **Collaborator 4**: Biagio Arobba
@@ -48,7 +48,7 @@ I contribute to the following projects:
   
 #### Oglala Lakota College NIFA Data Cube: 
 - **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL.
-- **Collaborator 2**: James Sanovia, Tribal Resislience Data Scientist, ESIIL
+- **Collaborator 2**: James Sanovia, Tribal Resislience Data Scientist, ESIIL https://github.com/HeSapa9
 - **Collaborator 3**: Elisha Yellow Thunder, Graduate Research Assistant
 - **Collaborator 4**: J. Foster Sawyer, PhD, Faculty, Oglala Lakota College
 - **Collaborator 5**: Dana Gehring, Chair, Department of Math, Science, and Technology, Oglala Lakota College
