@@ -3,11 +3,18 @@ This is the central hub for information pertaining to ESIIL Postdocs
 
 # Lilly Jones-Sanovia, PhD
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to the repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
 
-## Your Project
+## My Projects
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+I contribute to the following projects:
+Maka Sitomniya - Technical Lead
+Sicangu Climate Center - Consultant
+Oglala Lakota College NIFA Data Cube - Consultant
+Earth Lab's Earth Data Science Certificate Course - Teaching assistant
+CIRES SI Group #3 - Mentoring graduate students at CU Boulder - Committee member
+Southern California Edison Fire Risk Model - contributor
+
 
 ## Project Proposal
 
