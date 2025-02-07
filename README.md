@@ -25,11 +25,20 @@ I contribute to the following projects:
 
 #### Maka Sitomniya: 
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL
-- **Collaborator 2**: 
-- **Collaborator 3**: 
-- **Collaborator 4**: 
-- **Collaborator 5**: 
-  
+- **Collaborator 1**: PI: Phil Two Eagle <phil.twoeagle@rst-nsn.gov>
+- **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
+- **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia <lijo8146@colorado.edu>
+- **Collaborator 4**: Robin O'Malley <omalley.robin@gmail.com>
+- **Collaborator 5**: Justina White Eyes <Justina@nativebio.org>
+- **Collaborator 6**: Robert Newman <robert.newman@und.edu>
+- **Collaborator 7**: Al Kusilikis <akuslikis@gmail.com>
+- **Collaborator 8**: Jeff Weber <jweber@ucar.edu> 
+- **Collaborator 9**: Joseph Yracheta <joseph@nativebio.org>
+- **Collaborator 10**: Camille Griffith <cgriffith@olc.edu>
+- **Collaborator 11**: Brian Yandell <brian.yandell@wisc.edu>
+- **Collaborator 12**: James Rattling Leaf <james.rattlingleaf@colorado.edu>
+- **Collaborator 13**: Robert Michell Rabin <rabin@ssec.wisc.edu>
+
 #### Sicangu Climate Center:
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL
 - **Collaborator 2**: Phil Two Eagle
@@ -43,6 +52,7 @@ I contribute to the following projects:
 - **Collaborator 3**: Elisha Yellow Thunder, Graduate Research Assistant
 - **Collaborator 4**: J. Foster Sawyer, PhD, Faculty, Oglala Lakota College
 - **Collaborator 5**: Dana Gehring, Chair, Department of Math, Science, and Technology, Oglala Lakota College
+- **Collaborator 6**: Camille Griffith, PhD, Faculty, Oglala Lakota College
 
 #### Earth Lab's Earth Data Science Certificate Course:
 - **Collaborator 1**: Elsa Cueller, PhD Education Trainer Earth Lab https://earthlab.colorado.edu/our-team/elsa-culler
