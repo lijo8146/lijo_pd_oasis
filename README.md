@@ -12,9 +12,9 @@ I contribute to the following projects:
 <li>Maka Sitomniya - Technical Lead</li>
 <li>Sicangu Climate Center - Consultant</li>
 <li>Oglala Lakota College NIFA Data Cube - Consultant</li>
-<li>Earth Lab's Earth Data Science Certificate Course - Teaching assistant</li>
-<li>CIRES SI Group #3 - Mentoring graduate students at CU Boulder - Committee member</li>
-<li>Southern California Edison Fire Risk Model - contributor</li>
+<li>Earth Lab's Earth Data Science Certificate Course - Teaching Assistant</li>
+<li>CIRES SI Group #3 - Mentoring graduate students at CU Boulder - Committee Member</li>
+<li>Southern California Edison Fire Risk Model - Contributor</li>
 </ol>
 
 ## Project Proposal
