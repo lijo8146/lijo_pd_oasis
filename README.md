@@ -24,39 +24,39 @@ I contribute to the following projects:
 ## Collaborators and Co-Authors 
 
 #### Maka Sitomniya: 
-- **Collaborator 1**: Ty Tuff, PhD, ESIIL Data Scientist.
-- **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist, Earth Lab and ESIIL.
-- **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director.
-- **Collaborator 4**: Erick Verleye, ESIIL Software Developer.
-- **Collaborator 5**: Daksha Singhal, Graduate Research Assistant.
+- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL
+- **Collaborator 2**: 
+- **Collaborator 3**: 
+- **Collaborator 4**: 
+- **Collaborator 5**: 
   
 #### Sicangu Climate Center:
-- **Collaborator 1**: Ty Tuff, PhD, ESIIL Data Scientist.
-- **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist, Earth Lab and ESIIL.
-- **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director.
-- **Collaborator 4**: Erick Verleye, ESIIL Software Developer.
-- **Collaborator 5**: Daksha Singhal, Graduate Research Assistant.
+- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL
+- **Collaborator 2**: Phil Two Eagle
+- **Collaborator 3**: Robin O'Malley
+- **Collaborator 4**: Biagio Arobba
+- **Collaborator 5**: 
   
 #### Oglala Lakota College NIFA Data Cube: 
-- **Collaborator 1**: Ty Tuff, PhD, ESIIL Data Scientist.
-- **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist, Earth Lab and ESIIL.
-- **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director.
-- **Collaborator 4**: Erick Verleye, ESIIL Software Developer.
-- **Collaborator 5**: Daksha Singhal, Graduate Research Assistant.
+- **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL.
+- **Collaborator 2**: James Sanovia, Tribal Resislience Data Scientist, ESIIL
+- **Collaborator 3**: Elisha Yellow Thunder, Graduate Research Assistant
+- **Collaborator 4**: J. Foster Sawyer, PhD, Faculty, Oglala Lakota College
+- **Collaborator 5**: Dana Gehring, Chair, Department of Math, Science, and Technology, Oglala Lakota College
 
 #### Earth Lab's Earth Data Science Certificate Course:
-- **Collaborator 1**: Ty Tuff, PhD, ESIIL Data Scientist.
-- **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist, Earth Lab and ESIIL.
-- **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director.
-- **Collaborator 4**: Erick Verleye, ESIIL Software Developer.
-- **Collaborator 5**: Daksha Singhal, Graduate Research Assistant.
+- **Collaborator 1**: Elsa Cueller
+- **Collaborator 2**: Nathan Quarderer
+- **Collaborator 3**: Katherine Siegel
+- **Collaborator 4**: Alison Post
   
 #### CIRES SI Group #3:
-- **Collaborator 1**: Ty Tuff, PhD, ESIIL Data Scientist.
-- **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist, Earth Lab and ESIIL.
-- **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director.
-- **Collaborator 4**: Erick Verleye, ESIIL Software Developer.
-- **Collaborator 5**: Daksha Singhal, Graduate Research Assistant.
+- **Collaborator 1**: Becca Edwards, CIRES https://cires.colorado.edu/people/becca-edwards
+- **Collaborator 2**: Aleya Kaushik - NOAA Affiliate 
+- **Collaborator 3**: Annette Balmes - NOAA Affiliate
+- **Collaborator 4**: Alicia Christensen Professional Research Assistant - CIRES
+- **Collaborator 5**: Joost de Gouw Associate Chair, Professor, CIRES - CU Boulder
+ 
 
 #### Southern California Edison Project:
 - **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL [link](https://github.com/ttuff)
