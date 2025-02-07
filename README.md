@@ -45,17 +45,17 @@ I contribute to the following projects:
 - **Collaborator 5**: Dana Gehring, Chair, Department of Math, Science, and Technology, Oglala Lakota College
 
 #### Earth Lab's Earth Data Science Certificate Course:
-- **Collaborator 1**: Elsa Cueller
-- **Collaborator 2**: Nathan Quarderer
-- **Collaborator 3**: Katherine Siegel
-- **Collaborator 4**: Alison Post
+- **Collaborator 1**: Elsa Cueller, PhD Education Trainer Earth Lab https://earthlab.colorado.edu/our-team/elsa-culler
+- **Collaborator 2**: Nathan Quarderer, PhD Education Director Earth Lab https://earthlab.colorado.edu/our-team/nathan-quarderer
+- **Collaborator 3**: Katherine Siegel, PhD Associate Professor CU Boulder https://www.colorado.edu/geography/katherine-siegel
+- **Collaborator 4**: Alison Post, PhD Program Manager and Research Scientist - Earth Lab https://earthlab.colorado.edu/our-team/alison-post
   
 #### CIRES SI Group #3:
 - **Collaborator 1**: Becca Edwards, CIRES https://cires.colorado.edu/people/becca-edwards
-- **Collaborator 2**: Aleya Kaushik - NOAA Affiliate 
-- **Collaborator 3**: Annette Balmes - NOAA Affiliate
-- **Collaborator 4**: Alicia Christensen Professional Research Assistant - CIRES
-- **Collaborator 5**: Joost de Gouw Associate Chair, Professor, CIRES - CU Boulder
+- **Collaborator 2**: Aleya Kaushik, PhD - NOAA Affiliate https://cires.colorado.edu/people/aleya-kaushik
+- **Collaborator 3**: Annette Balmes - NOAA Affiliate, Geomagnetism Associate Scientist https://cires.colorado.edu/people/annette-balmes
+- **Collaborator 4**: Alicia Christensen, RECCS Program Manager, Curriculum Developer - CIRES - CU Boulder https://cires.colorado.edu/people/alicia-christensen
+- **Collaborator 5**: Joost de Gouw, PhD Associate Chair, Professor of Chemistry, CIRES - CU Boulder https://cires.colorado.edu/people/joost-de-gouw
  
 
 #### Southern California Edison Project:
