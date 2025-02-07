@@ -23,7 +23,6 @@ I contribute to the following projects:
 
 ## Collaborators and Co-Authors 
 
-[List the names and a brief description of people you work with, possibly linking to their personal or professional web pages.]
 #### Maka Sitomniya: 
 - **Collaborator 1**: Ty Tuff, PhD, ESIIL Data Scientist.
 - **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist, Earth Lab and ESIIL.
@@ -60,11 +59,12 @@ I contribute to the following projects:
 - **Collaborator 5**: Daksha Singhal, Graduate Research Assistant.
 
 #### Southern California Edison Project:
-- **Collaborator 1**: Ty Tuff, PhD, ESIIL Data Scientist.
-- **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist and Interim Director, Earth Lab.
-- **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director.
-- **Collaborator 4**: Erick Verleye, ESIIL Software Developer.
-- **Collaborator 5**: Daksha Singhal, Graduate Research Assistant.
+- **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL [link](https://github.com/ttuff)
+- **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist and Interim Director, Earth Lab [link](https://github.com/viriglesias)
+- **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director. [link](https://github.com/CibeleAmaral)
+- **Collaborator 4**: Erick Verleye, ESIIL Software Developer. [link](https://github.com/Ckster)
+- **Collaborator 5**: Daksha Singhal, Graduate Research Assistant. [link](https://www.linkedin.com/in/dakshasinghal/?originalSubdomain=in)
+
 
 
 ## Code Repository
