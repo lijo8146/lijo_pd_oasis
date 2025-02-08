@@ -30,48 +30,48 @@ I contribute to the following projects:
 ## Collaborators and Co-Authors 
 
 #### Maka Sitomniya: 
-- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL, https://github.com/HeSapa9
-- **Collaborator 1**: PI: Phil Two Eagle <phil.twoeagle@rst-nsn.gov>
-- **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder <eyellowthunder@gmail.com>
-- **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia <lijo8146@colorado.edu>
-- **Collaborator 4**: Robin O'Malley <omalley.robin@gmail.com>
-- **Collaborator 5**: Justina White Eyes <Justina@nativebio.org>
-- **Collaborator 6**: Robert Newman <robert.newman@und.edu>
-- **Collaborator 7**: Al Kusilikis <akuslikis@gmail.com>
-- **Collaborator 8**: Jeff Weber <jweber@ucar.edu> 
-- **Collaborator 9**: Joseph Yracheta <joseph@nativebio.org>
-- **Collaborator 10**: Camille Griffith <cgriffith@olc.edu>
-- **Collaborator 11**: Brian Yandell <brian.yandell@wisc.edu>
-- **Collaborator 12**: James Rattling Leaf <james.rattlingleaf@colorado.edu>
-- **Collaborator 13**: Robert Michell Rabin <rabin@ssec.wisc.edu>
+- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL, [link](https://github.com/HeSapa9)
+- **Collaborator 1**: PI: Phil Two Eagle [link]
+- **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder [link]
+- **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia [link]
+- **Collaborator 4**: Robin O'Malley [link]
+- **Collaborator 5**: Justina White Eyes [link]
+- **Collaborator 6**: Robert Newman [link]
+- **Collaborator 7**: Al Kusilikis [link]
+- **Collaborator 8**: Jeff Weber [link]
+- **Collaborator 9**: Joseph Yracheta [link]
+- **Collaborator 10**: Camille Griffith [link](https://scholar.google.com/citations?user=MOGWrOkAAAAJ&hl=en)
+- **Collaborator 11**: Brian Yandell [link]
+- **Collaborator 12**: James Rattling Leaf [link]
+- **Collaborator 13**: Robert Michell Rabin [link]
 
 #### Sicangu Climate Center:
-- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL https://github.com/HeSapa9
-- **Collaborator 2**: Phil Two Eagle
+- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
+- **Collaborator 2**: Phil Two Eagle 
 - **Collaborator 3**: Robin O'Malley
 - **Collaborator 4**: Biagio Arobba
 - **Collaborator 5**: 
   
 #### Oglala Lakota College NIFA Data Cube: 
-- **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL.
-- **Collaborator 2**: James Sanovia, Tribal Resislience Data Scientist, ESIIL https://github.com/HeSapa9
-- **Collaborator 3**: Elisha Yellow Thunder, Graduate Research Assistant
-- **Collaborator 4**: J. Foster Sawyer, PhD, Faculty, Oglala Lakota College
-- **Collaborator 5**: Dana Gehring, Chair, Department of Math, Science, and Technology, Oglala Lakota College
-- **Collaborator 6**: Camille Griffith, PhD, Faculty, Oglala Lakota College
+- **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL [link](https://github.com/ttuff)
+- **Collaborator 2**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
+- **Collaborator 3**: Elisha Yellow Thunder, Graduate Research Assistant [link](https://www.linkedin.com/in/elisha-l-wakinyan-zi-yellow-thunder-68964a4b/)
+- **Collaborator 4**: J. Foster Sawyer, PhD, Faculty, Oglala Lakota College [link](https://www.researchgate.net/scientific-contributions/J-Foster-Sawyer-2199823540)
+- **Collaborator 5**: Dana Gehring, Chair, Department of Math, Science, and Technology, Oglala Lakota College [link](https://www.linkedin.com/in/dana-gehring/)
+- **Collaborator 6**: Camille Griffith, PhD, Faculty, Oglala Lakota College [link](https://scholar.google.com/citations?user=MOGWrOkAAAAJ&hl=en)
 
 #### Earth Lab's Earth Data Science Certificate Course:
-- **Collaborator 1**: Elsa Cueller, PhD Education Trainer Earth Lab https://earthlab.colorado.edu/our-team/elsa-culler
-- **Collaborator 2**: Nathan Quarderer, PhD Education Director Earth Lab https://earthlab.colorado.edu/our-team/nathan-quarderer
-- **Collaborator 3**: Katherine Siegel, PhD Associate Professor CU Boulder https://www.colorado.edu/geography/katherine-siegel
-- **Collaborator 4**: Alison Post, PhD Program Manager and Research Scientist - Earth Lab https://earthlab.colorado.edu/our-team/alison-post
+- **Collaborator 1**: Elsa Cueller, PhD Education Trainer Earth Lab [link](https://earthlab.colorado.edu/our-team/elsa-culler)
+- **Collaborator 2**: Nathan Quarderer, PhD Education Director Earth Lab [link](https://earthlab.colorado.edu/our-team/nathan-quarderer)
+- **Collaborator 3**: Katherine Siegel, PhD Associate Professor CU Boulder [link](https://www.colorado.edu/geography/katherine-siegel)
+- **Collaborator 4**: Alison Post, PhD Program Manager and Research Scientist - Earth Lab [link](https://earthlab.colorado.edu/our-team/alison-post)
   
 #### CIRES SI Group #3:
-- **Collaborator 1**: Becca Edwards, CIRES https://cires.colorado.edu/people/becca-edwards
-- **Collaborator 2**: Aleya Kaushik, PhD - NOAA Affiliate https://cires.colorado.edu/people/aleya-kaushik
-- **Collaborator 3**: Annette Balmes - NOAA Affiliate, Geomagnetism Associate Scientist https://cires.colorado.edu/people/annette-balmes
-- **Collaborator 4**: Alicia Christensen, RECCS Program Manager, Curriculum Developer - CIRES - CU Boulder https://cires.colorado.edu/people/alicia-christensen
-- **Collaborator 5**: Joost de Gouw, PhD Associate Chair, Professor of Chemistry, CIRES - CU Boulder https://cires.colorado.edu/people/joost-de-gouw
+- **Collaborator 1**: Becca Edwards, CIRES [link](https://cires.colorado.edu/people/becca-edwards)
+- **Collaborator 2**: Aleya Kaushik, PhD - NOAA Affiliate [link](https://cires.colorado.edu/people/aleya-kaushik)
+- **Collaborator 3**: Annette Balmes - NOAA Affiliate, Geomagnetism Associate Scientist [link](https://cires.colorado.edu/people/annette-balmes)
+- **Collaborator 4**: Alicia Christensen, RECCS Program Manager, Curriculum Developer - CIRES - CU Boulder [link](https://cires.colorado.edu/people/alicia-christensen)
+- **Collaborator 5**: Joost de Gouw, PhD Associate Chair, Professor of Chemistry, CIRES - CU Boulder [link](https://cires.colorado.edu/people/joost-de-gouw)
  
 
 #### Southern California Edison Project:
