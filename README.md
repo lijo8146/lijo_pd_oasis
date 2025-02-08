@@ -1,5 +1,5 @@
 # Postdoc OASIS
-Welcome to my repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting project descriptions, proposals, bios, codebases, and more that have been produced by ESIIL and Earth Lab post docs. This is the central hub for information pertaining to ESIIL Postdocs
+Welcome to my repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting project descriptions, proposals, bios, codebases, and more that have been produced by ESIIL and Earth Lab post docs. 
 
 # Lilly Jones-Sanovia, PhD
 Expertise: Geology and Geological Engineering, Hydrogeology, environmental modeling and visualization, data science and analysis, education.
