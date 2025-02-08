@@ -31,18 +31,18 @@ I contribute to the following projects:
 
 #### Maka Sitomniya: 
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL, [link](https://github.com/HeSapa9)
-- **Collaborator 1**: PI: Phil Two Eagle [link]
-- **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder [link]
+- **Collaborator 1**: PI: Phil Two Eagle [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
+- **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder [link](https://www.linkedin.com/in/elisha-l-wakinyan-zi-yellow-thunder-68964a4b/)
 - **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
-- **Collaborator 4**: Robin O'Malley [link]
-- **Collaborator 5**: Justina White Eyes [link]
+- **Collaborator 4**: Robin O'Malley [link](https://www.linkedin.com/in/robin-o-malley-48b145151/)
+- **Collaborator 5**: Justina White Eyes [link](https://www.linkedin.com/in/justina-white-eyes-4056421a9/)
 - **Collaborator 6**: Robert Newman [link]
-- **Collaborator 7**: Al Kusilikis [link]
-- **Collaborator 8**: Jeff Weber [link]
-- **Collaborator 9**: Joseph Yracheta [link]
+- **Collaborator 7**: Al Kusilikis, AIHEC [link](https://www.linkedin.com/in/al-kuslikis-01152423b/)
+- **Collaborator 8**: Jeff Weber [link](https://www.linkedin.com/in/jeff-weber-6917668/)
+- **Collaborator 9**: Joseph Yracheta [link](https://www.linkedin.com/in/joseph-yracheta-582a133a/)
 - **Collaborator 10**: Camille Griffith [link](https://scholar.google.com/citations?user=MOGWrOkAAAAJ&hl=en)
-- **Collaborator 11**: Brian Yandell [link]
-- **Collaborator 12**: James Rattling Leaf [link]
+- **Collaborator 11**: Brian Yandell [link](https://pages.stat.wisc.edu/~yandell/)
+- **Collaborator 12**: James Rattling Leaf [link](https://www.colorado.edu/cnais/james-rattling-leaf-sr)
 - **Collaborator 13**: Robert Michell Rabin [link]
 
 #### Sicangu Climate Center:
@@ -51,16 +51,16 @@ I contribute to the following projects:
 - **Collaborator 3**: Robin O'Malley [link](https://www.linkedin.com/in/robin-o-malley-48b145151/)
 - **Collaborator 4**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
 - **Collaborator 5**: Alicia Swimmer [link](https://www.linkedin.com/in/aliciaswimmer/)
-- **Collaborator 6**: Paula - Wopilawin Antoine paula.antoine@rst-nsn.gov Program Coordinator at Rosebud Sioux Tribe-Sicangu Oyate Land Office [link](https://www.linkedin.com/in/paula-antoine-a897aa80/)
-- **Collaborator 7**: Al Kuslikis, AIHEC akuslikis@gmail.com [link](https://www.linkedin.com/in/al-kuslikis-01152423b/)
-- **Collaborator 8**: Brian Yandell byandell@wisc.edu [link](https://pages.stat.wisc.edu/~yandell/)
-- **Collaborator 9**: Mason Grimshaw mbgrimshaw@gmail.com Data Scientist [link](https://www.linkedin.com/in/masongrimshaw/)
-- **Collaborator 10**: Jeff McWhirter jeff.mcwhirter@gmail.com [link](https://devpost.com/jeffmc)
-- **Collaborator 11**: Jaime Poignee jaime.poignee@rst-nsn.gov Executive Director at RESCO Rosebud Energy Service Company [link](https://www.linkedin.com/in/jaime-poignee-93a248309/)
-- **Collaborator 12**: Syed Huq, Director, Rosebud Sioux Tribe Water Resources shuq@sicangu.com [link](https://www.rosebudsiouxtribe-nsn.gov/natural-res)
+- **Collaborator 6**: Paula - Wopilawin Antoine Program Coordinator at Rosebud Sioux Tribe-Sicangu Oyate Land Office [link](https://www.linkedin.com/in/paula-antoine-a897aa80/)
+- **Collaborator 7**: Al Kuslikis, AIHEC [link](https://www.linkedin.com/in/al-kuslikis-01152423b/)
+- **Collaborator 8**: Brian Yandell [link](https://pages.stat.wisc.edu/~yandell/)
+- **Collaborator 9**: Mason Grimshaw Data Scientist [link](https://www.linkedin.com/in/masongrimshaw/)
+- **Collaborator 10**: Jeff McWhirter [link](https://devpost.com/jeffmc)
+- **Collaborator 11**: Jaime Poignee Executive Director at RESCO Rosebud Energy Service Company [link](https://www.linkedin.com/in/jaime-poignee-93a248309/)
+- **Collaborator 12**: Syed Huq, Director, Rosebud Sioux Tribe Water Resources [link](https://www.rosebudsiouxtribe-nsn.gov/natural-res)
 - **Collaborator 13**: Michelle Dog Eyes RST Treaty Council Administrative Assistant
-- **Collaborator 14**: Frank Gangone frank.gangone@rst-nsn.gov [link](https://www.linkedin.com/in/frank-gangone-90920238/)
-- **Collaborator 15**: Anpotowin Jensen anpo@honorearth.org [link](https://www.honorearth.org/anpo)
+- **Collaborator 14**: Frank Gangone [link](https://www.linkedin.com/in/frank-gangone-90920238/)
+- **Collaborator 15**: Anpotowin Jensen [link](https://www.honorearth.org/anpo)
 - Biagio Arobba [link](https://www.linkedin.com/in/barobba/)
 
 #### Oglala Lakota College NIFA Data Cube: 
