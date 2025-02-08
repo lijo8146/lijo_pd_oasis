@@ -44,6 +44,7 @@ I contribute to the following projects:
 - **Collaborator 11**: Brian Yandell [link](https://pages.stat.wisc.edu/~yandell/)
 - **Collaborator 12**: James Rattling Leaf [link](https://www.colorado.edu/cnais/james-rattling-leaf-sr)
 - **Collaborator 13**: Robert Michell Rabin [link]
+- **Collaborator 14**: Patrick Freeland [link](https://www.linkedin.com/in/patrickfreeland/)
 
 #### Sicangu Climate Center:
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
