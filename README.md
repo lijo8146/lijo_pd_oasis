@@ -33,7 +33,7 @@ I contribute to the following projects:
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL, [link](https://github.com/HeSapa9)
 - **Collaborator 1**: PI: Phil Two Eagle [link]
 - **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder [link]
-- **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia [link]
+- **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
 - **Collaborator 4**: Robin O'Malley [link]
 - **Collaborator 5**: Justina White Eyes [link]
 - **Collaborator 6**: Robert Newman [link]
@@ -47,11 +47,22 @@ I contribute to the following projects:
 
 #### Sicangu Climate Center:
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
-- **Collaborator 2**: Phil Two Eagle 
-- **Collaborator 3**: Robin O'Malley
-- **Collaborator 4**: Biagio Arobba
-- **Collaborator 5**: 
-  
+- **Collaborator 2**: Phil Two Eagle [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
+- **Collaborator 3**: Robin O'Malley [link](https://www.linkedin.com/in/robin-o-malley-48b145151/)
+- **Collaborator 4**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
+- **Collaborator 5**: Alicia Swimmer [link](https://www.linkedin.com/in/aliciaswimmer/)
+- **Collaborator 6**: Paula - Wopilawin Antoine paula.antoine@rst-nsn.gov Program Coordinator at Rosebud Sioux Tribe-Sicangu Oyate Land Office [link](https://www.linkedin.com/in/paula-antoine-a897aa80/)
+- **Collaborator 7**: Al Kuslikis, AIHEC akuslikis@gmail.com [link](https://www.linkedin.com/in/al-kuslikis-01152423b/)
+- **Collaborator 8**: Brian Yandell byandell@wisc.edu [link](https://pages.stat.wisc.edu/~yandell/)
+- **Collaborator 9**: Mason Grimshaw mbgrimshaw@gmail.com Data Scientist [link](https://www.linkedin.com/in/masongrimshaw/)
+- **Collaborator 10**: Jeff McWhirter jeff.mcwhirter@gmail.com [link](https://devpost.com/jeffmc)
+- **Collaborator 11**: Jaime Poignee jaime.poignee@rst-nsn.gov Executive Director at RESCO Rosebud Energy Service Company [link](https://www.linkedin.com/in/jaime-poignee-93a248309/)
+- **Collaborator 12**: Syed Huq, Director, Rosebud Sioux Tribe Water Resources shuq@sicangu.com [link](https://www.rosebudsiouxtribe-nsn.gov/natural-res)
+- **Collaborator 13**: Michelle Dog Eyes RST Treaty Council Administrative Assistant
+- **Collaborator 14**: Frank Gangone frank.gangone@rst-nsn.gov [link](https://www.linkedin.com/in/frank-gangone-90920238/)
+- **Collaborator 15**: Anpotowin Jensen anpo@honorearth.org [link](https://www.honorearth.org/anpo)
+- Biagio Arobba [link](https://www.linkedin.com/in/barobba/)
+
 #### Oglala Lakota College NIFA Data Cube: 
 - **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL [link](https://github.com/ttuff)
 - **Collaborator 2**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
@@ -59,12 +70,14 @@ I contribute to the following projects:
 - **Collaborator 4**: J. Foster Sawyer, PhD, Faculty, Oglala Lakota College [link](https://www.researchgate.net/scientific-contributions/J-Foster-Sawyer-2199823540)
 - **Collaborator 5**: Dana Gehring, Chair, Department of Math, Science, and Technology, Oglala Lakota College [link](https://www.linkedin.com/in/dana-gehring/)
 - **Collaborator 6**: Camille Griffith, PhD, Faculty, Oglala Lakota College [link](https://scholar.google.com/citations?user=MOGWrOkAAAAJ&hl=en)
+- **Collaborator 7**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
 
 #### Earth Lab's Earth Data Science Certificate Course:
 - **Collaborator 1**: Elsa Cueller, PhD Education Trainer Earth Lab [link](https://earthlab.colorado.edu/our-team/elsa-culler)
 - **Collaborator 2**: Nathan Quarderer, PhD Education Director Earth Lab [link](https://earthlab.colorado.edu/our-team/nathan-quarderer)
 - **Collaborator 3**: Katherine Siegel, PhD Associate Professor CU Boulder [link](https://www.colorado.edu/geography/katherine-siegel)
 - **Collaborator 4**: Alison Post, PhD Program Manager and Research Scientist - Earth Lab [link](https://earthlab.colorado.edu/our-team/alison-post)
+- **Collaborator 5**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
   
 #### CIRES SI Group #3:
 - **Collaborator 1**: Becca Edwards, CIRES [link](https://cires.colorado.edu/people/becca-edwards)
@@ -72,7 +85,7 @@ I contribute to the following projects:
 - **Collaborator 3**: Annette Balmes - NOAA Affiliate, Geomagnetism Associate Scientist [link](https://cires.colorado.edu/people/annette-balmes)
 - **Collaborator 4**: Alicia Christensen, RECCS Program Manager, Curriculum Developer - CIRES - CU Boulder [link](https://cires.colorado.edu/people/alicia-christensen)
 - **Collaborator 5**: Joost de Gouw, PhD Associate Chair, Professor of Chemistry, CIRES - CU Boulder [link](https://cires.colorado.edu/people/joost-de-gouw)
- 
+- **Collaborator 6**: Lilly Jones-Sanovia [link](https://github.com/lijo8146) 
 
 #### Southern California Edison Project:
 - **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL [link](https://github.com/ttuff)
@@ -80,8 +93,7 @@ I contribute to the following projects:
 - **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director. [link](https://github.com/CibeleAmaral)
 - **Collaborator 4**: Erick Verleye, ESIIL Software Developer. [link](https://github.com/Ckster)
 - **Collaborator 5**: Daksha Singhal, Graduate Research Assistant. [link](https://www.linkedin.com/in/dakshasinghal/?originalSubdomain=in)
-
-
+- **Collaborator 6**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
 
 ## Code Repository
 
