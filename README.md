@@ -5,7 +5,7 @@ Welcome to my repository, part of the Environmental Data Science Innovation and 
 Expertise: Geology and Geological Engineering, hydrogeology, environmental modeling and visualization, data science and analysis, education.
 Education: BS Environmental and Earth Sciences, Oglala Lakota College; PhD Geology and Geological Engineering, SD School of Mines and Technology; Graduate Certificate in Geospatial Technologies, SD School of Mines and Technology
 <ol>
-<li>GitHub (https://github.com/lijo8146)</li>
+<li>[GitHub](https://github.com/lijo8146)</li>
 <li>LinkedIn (https://www.linkedin.com/in/lillysanovia/)</li>
 <li>CIRES CU Boulder (https://cires.colorado.edu/people/lilly-jones)</li>
 <li>Personal Page (https://sites.google.com/view/yawapi/home)</li>
