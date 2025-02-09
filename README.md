@@ -31,7 +31,7 @@ I contribute to the following projects:
 
 #### Maka Sitomniya: 
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL, [link](https://github.com/HeSapa9)
-- **Collaborator 1**: PI: Phil Two Eagle [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
+- **Collaborator 1**: PI: Phil Two Eagle, Executive Director Sicangua Lakota Treaty Council, Sicangu Climate Center [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
 - **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder [link](https://www.linkedin.com/in/elisha-l-wakinyan-zi-yellow-thunder-68964a4b/)
 - **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
 - **Collaborator 4**: Robin O'Malley [link](https://www.linkedin.com/in/robin-o-malley-48b145151/)
@@ -48,15 +48,15 @@ I contribute to the following projects:
 
 #### Sicangu Climate Center:
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
-- **Collaborator 2**: Phil Two Eagle [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
-- **Collaborator 3**: Robin O'Malley [link](https://www.linkedin.com/in/robin-o-malley-48b145151/)
+- **Collaborator 2**: Phil Two Eagle, Executive Director Sicangua Lakota Treaty Council, Sicangu Climate Center [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
+- **Collaborator 3**: Robin O'Malley, USGS (retired) [link](https://www.linkedin.com/in/robin-o-malley-48b145151/)
 - **Collaborator 4**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
 - **Collaborator 5**: Alicia Swimmer [link](https://www.linkedin.com/in/aliciaswimmer/)
-- **Collaborator 6**: Paula - Wopilawin Antoine Program Coordinator at Rosebud Sioux Tribe-Sicangu Oyate Land Office [link](https://www.linkedin.com/in/paula-antoine-a897aa80/)
-- **Collaborator 7**: Al Kuslikis, AIHEC [link](https://www.linkedin.com/in/al-kuslikis-01152423b/)
-- **Collaborator 8**: Brian Yandell [link](https://pages.stat.wisc.edu/~yandell/)
+- **Collaborator 6**: Paula Wopilawin Antoine Program Coordinator, Rosebud Sioux Tribe-Sicangu Oyate Land Office [link](https://www.linkedin.com/in/paula-antoine-a897aa80/)
+- **Collaborator 7**: Al Kuslikis, American Indian Higher Education Consortium (retired) [link](https://www.linkedin.com/in/al-kuslikis-01152423b/)
+- **Collaborator 8**: Brian Yandell, Professor Emeritus [link](https://pages.stat.wisc.edu/~yandell/)
 - **Collaborator 9**: Mason Grimshaw Data Scientist [link](https://www.linkedin.com/in/masongrimshaw/)
-- **Collaborator 10**: Jeff McWhirter [link](https://devpost.com/jeffmc)
+- **Collaborator 10**: Jeff McWhirter, NCAR [link](https://devpost.com/jeffmc)
 - **Collaborator 11**: Jaime Poignee Executive Director at RESCO Rosebud Energy Service Company [link](https://www.linkedin.com/in/jaime-poignee-93a248309/)
 - **Collaborator 12**: Syed Huq, Director, Rosebud Sioux Tribe Water Resources [link](https://www.rosebudsiouxtribe-nsn.gov/natural-res)
 - **Collaborator 13**: Michelle Dog Eyes RST Treaty Council Administrative Assistant
@@ -81,7 +81,7 @@ I contribute to the following projects:
 - **Collaborator 5**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
   
 #### CIRES SI Group #3:
-- **Collaborator 1**: Becca Edwards, CIRES [link](https://cires.colorado.edu/people/becca-edwards)
+- **Collaborator 1**: Becca Edwards, CIRES Director of Access and Cultural Innovation [link](https://cires.colorado.edu/people/becca-edwards)
 - **Collaborator 2**: Aleya Kaushik, PhD - NOAA Affiliate [link](https://cires.colorado.edu/people/aleya-kaushik)
 - **Collaborator 3**: Annette Balmes - NOAA Affiliate, Geomagnetism Associate Scientist [link](https://cires.colorado.edu/people/annette-balmes)
 - **Collaborator 4**: Alicia Christensen, RECCS Program Manager, Curriculum Developer - CIRES - CU Boulder [link](https://cires.colorado.edu/people/alicia-christensen)
