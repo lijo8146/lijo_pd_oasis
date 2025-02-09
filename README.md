@@ -30,7 +30,6 @@ I contribute to the following projects:
 ## Collaborators and Co-Authors 
 
 #### Maka Sitomniya: 
-- **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL, [link](https://github.com/HeSapa9)
 - **Collaborator 1**: PI: Phil Two Eagle, Executive Director Sicangua Lakota Treaty Council, Sicangu Climate Center [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
 - **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder [link](https://www.linkedin.com/in/elisha-l-wakinyan-zi-yellow-thunder-68964a4b/)
 - **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
@@ -45,6 +44,7 @@ I contribute to the following projects:
 - **Collaborator 12**: James Rattling Leaf [link](https://www.colorado.edu/cnais/james-rattling-leaf-sr)
 - **Collaborator 13**: Robert Michell Rabin [link]
 - **Collaborator 14**: Patrick Freeland [link](https://www.linkedin.com/in/patrickfreeland/)
+- **Collaborator 15**: James Sanovia, Tribal Resislience Data Scientist, ESIIL, [link](https://github.com/HeSapa9)
 
 #### Sicangu Climate Center:
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
