@@ -10,7 +10,7 @@ Education: BS Environmental and Earth Sciences, Oglala Lakota College; PhD Geolo
 <li>CIRES CU Boulder https://cires.colorado.edu/people/lilly-jones</li>
 <li>Personal Page https://sites.google.com/view/yawapi/home</li>
 </ol>
-![Image](https://media.licdn.com/dms/image/v2/D5603AQFPILozGihipA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1682452873179?e=1744848000&v=beta&t=xsVmGiTPK1ZftgC7PJ1N0uy0l6fKEuS_EW7LoGSvVNU)
+
 
 ## My Projects
 
