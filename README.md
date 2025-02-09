@@ -12,14 +12,14 @@ Education: BS Environmental and Earth Sciences, Oglala Lakota College; PhD Geolo
 </ol>
 
 ## My Projects
-# example **[EFF](https://eff.org)**
+
 I contribute to the following projects:
 <ol>
-<li>Maka Sitomniya - Technical Lead **[GitHub](https://cu-esiil.github.io/Maka-Sitomniya)** </li>
-<li>Sicangu Climate Center - Consultant [link](https://sicangudata.org/?zoomLevel=9&mapCenter=43.00465%2C-100.45074)</li>
+<li>Maka Sitomniya - Technical Lead https://cu-esiil.github.io/Maka-Sitomniya</li>
+<li>Sicangu Climate Center - Consultant https://sicangudata.org/?zoomLevel=9&mapCenter=43.00465%2C-100.45074</li>
 <li>Oglala Lakota College NIFA Data Cube - Consultant</li>
-<li>Earth Lab's Earth Data Science Certificate Course - Teaching Assistant [link](https://www.earthdatascience.org)</li>
-<li>CIRES SI Group #3 - Mentoring graduate students at CU Boulder - Committee Member [link](https://cires.colorado.edu/cires-strategic-plan)</li>
+<li>Earth Lab's Earth Data Science Certificate Course - Teaching Assistant https://www.earthdatascience.org</li>
+<li>CIRES SI Group #3 - Mentoring graduate students at CU Boulder - Committee Member https://cires.colorado.edu/cires-strategic-plan</li>
 <li>Southern California Edison Fire Risk Model - Contributor</li>
 </ol>
 
