@@ -32,15 +32,15 @@ I contribute to the following projects:
 #### Maka Sitomniya: 
 - **Collaborator 1**: PI: Phil Two Eagle, Executive Director Sicangua Lakota Treaty Council, Sicangu Climate Center [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
 - **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder [link](https://www.linkedin.com/in/elisha-l-wakinyan-zi-yellow-thunder-68964a4b/)
-- **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
+- **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia, PhD [link](https://github.com/lijo8146)
 - **Collaborator 4**: Robin O'Malley [link](https://www.linkedin.com/in/robin-o-malley-48b145151/)
 - **Collaborator 5**: Justina White Eyes [link](https://www.linkedin.com/in/justina-white-eyes-4056421a9/)
-- **Collaborator 6**: Robert Newman [link]
+- **Collaborator 6**: Robert Newman, PhD [link]
 - **Collaborator 7**: Al Kusilikis, AIHEC [link](https://www.linkedin.com/in/al-kuslikis-01152423b/)
 - **Collaborator 8**: Jeff Weber [link](https://www.linkedin.com/in/jeff-weber-6917668/)
 - **Collaborator 9**: Joseph Yracheta [link](https://www.linkedin.com/in/joseph-yracheta-582a133a/)
-- **Collaborator 10**: Camille Griffith [link](https://scholar.google.com/citations?user=MOGWrOkAAAAJ&hl=en)
-- **Collaborator 11**: Brian Yandell [link](https://pages.stat.wisc.edu/~yandell/)
+- **Collaborator 10**: Camille Griffith, PhD [link](https://scholar.google.com/citations?user=MOGWrOkAAAAJ&hl=en)
+- **Collaborator 11**: Brian Yandell, PhD [link](https://pages.stat.wisc.edu/~yandell/)
 - **Collaborator 12**: James Rattling Leaf [link](https://www.colorado.edu/cnais/james-rattling-leaf-sr)
 - **Collaborator 13**: Robert Michell Rabin [link]
 - **Collaborator 14**: Patrick Freeland [link](https://www.linkedin.com/in/patrickfreeland/)
@@ -50,11 +50,11 @@ I contribute to the following projects:
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
 - **Collaborator 2**: Phil Two Eagle, Executive Director Sicangua Lakota Treaty Council, Sicangu Climate Center [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
 - **Collaborator 3**: Robin O'Malley, USGS (retired) [link](https://www.linkedin.com/in/robin-o-malley-48b145151/)
-- **Collaborator 4**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
+- **Collaborator 4**: Lilly Jones-Sanovia, PhD [link](https://github.com/lijo8146)
 - **Collaborator 5**: Alicia Swimmer [link](https://www.linkedin.com/in/aliciaswimmer/)
 - **Collaborator 6**: Paula Wopilawin Antoine Program Coordinator, Rosebud Sioux Tribe-Sicangu Oyate Land Office [link](https://www.linkedin.com/in/paula-antoine-a897aa80/)
 - **Collaborator 7**: Al Kuslikis, American Indian Higher Education Consortium (retired) [link](https://www.linkedin.com/in/al-kuslikis-01152423b/)
-- **Collaborator 8**: Brian Yandell, Professor Emeritus [link](https://pages.stat.wisc.edu/~yandell/)
+- **Collaborator 8**: Brian Yandell, PhD, Professor Emeritus [link](https://pages.stat.wisc.edu/~yandell/)
 - **Collaborator 9**: Mason Grimshaw Data Scientist [link](https://www.linkedin.com/in/masongrimshaw/)
 - **Collaborator 10**: Jeff McWhirter, NCAR [link](https://devpost.com/jeffmc)
 - **Collaborator 11**: Jaime Poignee Executive Director at RESCO Rosebud Energy Service Company [link](https://www.linkedin.com/in/jaime-poignee-93a248309/)
@@ -71,14 +71,14 @@ I contribute to the following projects:
 - **Collaborator 4**: J. Foster Sawyer, PhD, Faculty, Oglala Lakota College [link](https://www.researchgate.net/scientific-contributions/J-Foster-Sawyer-2199823540)
 - **Collaborator 5**: Dana Gehring, Chair, Department of Math, Science, and Technology, Oglala Lakota College [link](https://www.linkedin.com/in/dana-gehring/)
 - **Collaborator 6**: Camille Griffith, PhD, Faculty, Oglala Lakota College [link](https://scholar.google.com/citations?user=MOGWrOkAAAAJ&hl=en)
-- **Collaborator 7**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
+- **Collaborator 7**: Lilly Jones-Sanovia, PhD [link](https://github.com/lijo8146)
 
 #### Earth Lab's Earth Data Science Certificate Course:
 - **Collaborator 1**: Elsa Cueller, PhD Education Trainer Earth Lab [link](https://earthlab.colorado.edu/our-team/elsa-culler)
 - **Collaborator 2**: Nathan Quarderer, PhD Education Director Earth Lab [link](https://earthlab.colorado.edu/our-team/nathan-quarderer)
 - **Collaborator 3**: Katherine Siegel, PhD Associate Professor CU Boulder [link](https://www.colorado.edu/geography/katherine-siegel)
 - **Collaborator 4**: Alison Post, PhD Program Manager and Research Scientist - Earth Lab [link](https://earthlab.colorado.edu/our-team/alison-post)
-- **Collaborator 5**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
+- **Collaborator 5**: Lilly Jones-Sanovia, PhD [link](https://github.com/lijo8146)
   
 #### CIRES SI Group #3:
 - **Collaborator 1**: Becca Edwards, CIRES Director of Access and Cultural Innovation [link](https://cires.colorado.edu/people/becca-edwards)
@@ -86,7 +86,7 @@ I contribute to the following projects:
 - **Collaborator 3**: Annette Balmes - NOAA Affiliate, Geomagnetism Associate Scientist [link](https://cires.colorado.edu/people/annette-balmes)
 - **Collaborator 4**: Alicia Christensen, RECCS Program Manager, Curriculum Developer - CIRES - CU Boulder [link](https://cires.colorado.edu/people/alicia-christensen)
 - **Collaborator 5**: Joost de Gouw, PhD Associate Chair, Professor of Chemistry, CIRES - CU Boulder [link](https://cires.colorado.edu/people/joost-de-gouw)
-- **Collaborator 6**: Lilly Jones-Sanovia [link](https://github.com/lijo8146) 
+- **Collaborator 6**: Lilly Jones-Sanovia, PhD [link](https://github.com/lijo8146) 
 
 #### Southern California Edison Project:
 - **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL [link](https://github.com/ttuff)
@@ -94,7 +94,7 @@ I contribute to the following projects:
 - **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director. [link](https://github.com/CibeleAmaral)
 - **Collaborator 4**: Erick Verleye, ESIIL Software Developer. [link](https://github.com/Ckster)
 - **Collaborator 5**: Daksha Singhal, Graduate Research Assistant. [link](https://www.linkedin.com/in/dakshasinghal/?originalSubdomain=in)
-- **Collaborator 6**: Lilly Jones-Sanovia [link](https://github.com/lijo8146)
+- **Collaborator 6**: Lilly Jones-Sanovia, PhD [link](https://github.com/lijo8146)
 
 ## Code Repository
 
