@@ -31,21 +31,22 @@ I contribute to the following projects:
 ## Collaborators and Co-Authors 
 
 #### Maka Sitomniya: 
-- **Collaborator 1**: PI: Phil Two Eagle, Executive Director Sicangua Lakota Treaty Council, Sicangu Climate Center [link](https://www.linkedin.com/in/philimon-d-two-eagle-32805710/)
-- **Collaborator 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder [link](https://www.linkedin.com/in/elisha-l-wakinyan-zi-yellow-thunder-68964a4b/)
-- **Collaborator 3**: Technical Lead: Lilly Jones-Sanovia, PhD [link](https://github.com/lijo8146)
-- **Collaborator 4**: Robin O'Malley [link](https://www.linkedin.com/in/robin-o-malley-48b145151/)
-- **Collaborator 5**: Justina White Eyes [link](https://www.linkedin.com/in/justina-white-eyes-4056421a9/)
-- **Collaborator 6**: Robert Newman, PhD [link]
-- **Collaborator 7**: Al Kusilikis, AIHEC [link](https://www.linkedin.com/in/al-kuslikis-01152423b/)
-- **Collaborator 8**: Jeff Weber [link](https://www.linkedin.com/in/jeff-weber-6917668/)
-- **Collaborator 9**: Joseph Yracheta [link](https://www.linkedin.com/in/joseph-yracheta-582a133a/)
-- **Collaborator 10**: Camille Griffith, PhD [link](https://scholar.google.com/citations?user=MOGWrOkAAAAJ&hl=en)
-- **Collaborator 11**: Brian Yandell, PhD [link](https://pages.stat.wisc.edu/~yandell/)
-- **Collaborator 12**: James Rattling Leaf [link](https://www.colorado.edu/cnais/james-rattling-leaf-sr)
-- **Collaborator 13**: Robert Michell Rabin [link]
-- **Collaborator 14**: Patrick Freeland [link](https://www.linkedin.com/in/patrickfreeland/)
-- **Collaborator 15**: James Sanovia, Tribal Resislience Data Scientist, ESIIL, [link](https://github.com/HeSapa9)
+- **Member 1**: PI: Phil Two Eagle, Executive Director, [Sicangu Climate Center](https://sicangudata.org) 
+- **Member 2**: Co-PI: Elisha Wakinyan Zi Yellow Thunder, Adjunct Faculty, [Oglala Lakota College](https://www.olc.edu)
+- **Member 3**: Technical Lead: Lilly Jones, PhD [CIRES Earth Lab, CU Boulder](https://earthlab.colorado.edu)
+- **Member 4**: Robin O'Malley, Principal at [Robin O'Malley LLC](https://www.robinomalleyllc.com)  
+- **Member 5**: Justina White Eyes, [Native BioData Consortium](https://nativebio.org)  
+- **Member 6**: Robert Newman, PhD, Professor of Biology, [University of North Dakota](https://campus.und.edu/directory/robert.newman)
+- **Member 7**: Al Kusilikis, Senior Associate for Strategic Initiatives (retired), [American Indian Higher Education Consortium](https://www.linkedin.com/in/al-kuslikis-aa16374b/)
+- **Member 8**: Jeff Weber, Scientific Program Manager, [National Center for Atomospheric Research](https://ncar.ucar.edu) 
+- **Member 9**: Joseph Yracheta, [Native BioData Consortium](https://nativebio.org) 
+- **Member 10**: Camille Griffith, PhD, Faculty [Oglala Lakota College](https://www.olc.edu)
+- **Member 11**: Brian Yandell, PhD, Data Scientist, Professor Emeritus, [University of Wisconsin-Madison](https://byandell.github.io)
+- **Member 12**: James Rattling Leaf, Tribal Advisor, [CIRES, CU Boulder](https://cires.colorado.edu/people/james-rattling-leaf) 
+- **Member 13**: Robert Michell Rabin, PhD, Research Meteorologist, [NOAA/National Severe Storms Laboratory](https://www.cira.colostate.edu/staff/rabin-robert-m/) 
+- **Member 14**: James Sanovia, Tribal Data Scientist [CIRES ESIIL Lab, CU Boulder](https://esiil.org)
+- **Member 15**: Patrick Freeland, Senior Tribal Climate Resilience Liaison, [Affiliated Tribes of Northwest Indians](https://atnitribes.org/about/our-staff/)
+- **Member 16**: Paula Antoine, Program Coordinator at [Rosebud Sioux Tribe-Sicangu Oyate Land Office](https://www.rosebudsiouxtribe-nsn.gov/rstland)
 
 #### Sicangu Climate Center:
 - **Collaborator 1**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
@@ -66,7 +67,7 @@ I contribute to the following projects:
 - Biagio Arobba [link](https://www.linkedin.com/in/barobba/)
 
 #### Oglala Lakota College NIFA Data Cube: 
-- **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL [link](https://github.com/ttuff)
+- **Collaborator 1**: Ty Tuff, PhD, Data Scientist, ESIIL [link](https://github.com/ttuff)
 - **Collaborator 2**: James Sanovia, Tribal Resislience Data Scientist, ESIIL [link](https://github.com/HeSapa9)
 - **Collaborator 3**: Elisha Yellow Thunder, Graduate Research Assistant [link](https://www.linkedin.com/in/elisha-l-wakinyan-zi-yellow-thunder-68964a4b/)
 - **Collaborator 4**: J. Foster Sawyer, PhD, Faculty, Oglala Lakota College [link](https://www.researchgate.net/scientific-contributions/J-Foster-Sawyer-2199823540)
@@ -90,7 +91,7 @@ I contribute to the following projects:
 - **Collaborator 6**: Lilly Jones-Sanovia, PhD [link](https://github.com/lijo8146) 
 
 #### Southern California Edison Project:
-- **Collaborator 1**: Ty Tuff, PhD, Chief Data Scientist, ESIIL [link](https://github.com/ttuff)
+- **Collaborator 1**: Ty Tuff, PhD, Data Scientist, ESIIL [link](https://github.com/ttuff)
 - **Collaborator 2**: Virginia Iglesias, PhD, Research Scientist and Interim Director, Earth Lab [link](https://github.com/viriglesias)
 - **Collaborator 3**: Cibele Amaral, PhD, Interim ESIIL and Earth Lab Analytics Director. [link](https://github.com/CibeleAmaral)
 - **Collaborator 4**: Erick Verleye, ESIIL Software Developer. [link](https://github.com/Ckster)
